@@ -6,7 +6,8 @@ function App() {
 
   return (
     <>
-      <h1>yo yo 4</h1>
+     <h1>yo yo 2</h1>
+
     </>
   )
 }
